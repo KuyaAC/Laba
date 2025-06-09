@@ -5,6 +5,7 @@ This repository contains the source code for a on going development of A Realtim
 ## Prerequisites
 
 - **Node.js** (Latest version recommended): [Download here](https://nodejs.org/)
+- **ShadcnUI** (Read the documentation for better understanding): [Read here](https://ui.shadcn.com/)
 
 ## Getting Started
 
@@ -25,4 +26,4 @@ npx shadcn@latest add button card alert (or any components you need, can be find
 
 ```
 
-3. **Enjoy!!**
+3. **Enjoy Hacking!!**
