@@ -12,8 +12,7 @@ This repository contains the source code for a on going development of A Realtim
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/KuyaAC/Laba.git
    ```
 
 2. **Install dependencies (RUN Each script 1 by 1)**
