@@ -1,0 +1,7 @@
+First Step: Download Lastest Node JS
+2nd Step: Clone GitHub repo
+3rd Step: Input this commands in you terminal inside the project:
+npm install
+npm install tailwindcss @tailwindcss/vite (Not sure if needed pa)
+npx shadcn@latest init
+npx shadcn@latest add button card alert (or any components you need, can be find at shadcn documentation at the internet)
