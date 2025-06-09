@@ -15,7 +15,7 @@ This repository contains the source code for a on going development of A Realtim
    cd your-repo-name
    ```
 
-2. **Install dependencies**
+2. **Install dependencies (RUN Each script 1 by 1)**
 
 ```bash
 npm install
