@@ -1,6 +1,6 @@
 # Project Setup Guide
 
-This repository contains the source code for [Project Name]. Follow the steps below to set up the development environment.
+This repository contains the source code for a on going development of A Realtime Laundry Recommendation System. Follow the steps below to set up the development environment.
 
 ## Prerequisites
 
@@ -14,3 +14,15 @@ This repository contains the source code for [Project Name]. Follow the steps be
    git clone https://github.com/your-username/your-repo-name.git
    cd your-repo-name
    ```
+
+2. **Install dependencies**
+
+```bash
+npm install
+npm install tailwindcss @tailwindcss/vite (Not sure if needed pa)
+npx shadcn@latest init
+npx shadcn@latest add button card alert (or any components you need, can be find at shadcn documentation at the internet)
+
+```
+
+3. **Enjoy!!**
